@@ -13,6 +13,6 @@ yarn-error.log*
 *.njsproj
 *.sln
 
-.editorconfig
-.eslintignore
-.babelrc
+*.editorconfig
+*.eslintignore
+*.babelrc
